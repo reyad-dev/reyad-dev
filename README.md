@@ -13,13 +13,15 @@
   <a href="mailto:Info@reyad.site">Let's talk</a>
 </p>
 
+# Reyad Dev — Mohamed Reyad's Open Source, Web Development & AI Projects
+
 ### Marketing with a builder's mindset.
 
-I'm **Mohamed Reyad**, a digital marketer and website designer. I connect paid advertising, WordPress and ecommerce experiences with SEO and conversion-focused thinking.
+I'm **Mohamed Reyad (@reyad-dev)**, a digital marketer, website designer, and AI-assisted builder. **Reyad Dev** is my GitHub home for open-source web projects, WordPress and front-end experiments, Arabic developer resources, AI-assisted development, and Vibe Coding.
 
-This GitHub is where I share front-end projects, Arabic learning resources, and experiments with AI-assisted development and Vibe Coding.
+I connect paid advertising, WordPress and ecommerce experiences with SEO and conversion-focused thinking.
 
-<p dir="rtl">أنا <strong>محمد رياض</strong>، مسوّق رقمي ومصمم مواقع ومتاجر إلكترونية. بربط الإعلانات الممولة بتجربة الموقع وتحسين التحويل، وبشارك هنا مشاريعي ومصادر تعليمية عربية وتجاربي في استخدام الذكاء الاصطناعي وVibe Coding لبناء المواقع.</p>
+<p dir="rtl">أنا <strong>محمد رياض</strong>، مسوّق رقمي ومصمم مواقع ومتاجر إلكترونية. <strong>Reyad Dev</strong> هي هويتي على GitHub لمشاركة مشاريع الويب والمصادر العربية وتجارب الذكاء الاصطناعي وVibe Coding، مع ربط الإعلانات الممولة بتجربة الموقع وتحسين التحويل.</p>
 
 ---
 
@@ -38,11 +40,11 @@ This GitHub is where I share front-end projects, Arabic learning resources, and 
 
 | Project | What you'll find | Explore |
 | :--- | :--- | :--- |
-| **Personal Portfolio** | A classic HTML/CSS portfolio with services, skills and resume sections. | [Repository](https://github.com/reyad-dev/personal-portfolio-html-css) |
-| **Marketing & WordPress Interview Guide** | An interactive Arabic guide with 52 interview questions, model answers and topic filters. | [Repository](https://github.com/reyad-dev/digital-marketing-wordpress-interview-arabic) |
-| **Morning & Evening Adhkar** | Arabic supplications with repetition counters, progress tracking and morning/evening themes. | [Repository](https://github.com/reyad-dev/adhkar-morning-evening-app) · [Live app](https://reyad-dev.github.io/adhkar-morning-evening-app/) |
-| **Classic Front-end Templates** | HTML/CSS and jQuery learning projects with multi-section layouts and interactive effects. | [jQuery template](https://github.com/reyad-dev/responsive-html-css-jquery-template) · [PSD-to-HTML template](https://github.com/reyad-dev/free-psd-to-html-website-template) |
-| **MDX Reader** | Offline Markdown viewer/editor with Arabic RTL and mixed Arabic-English bidi support. | [Repository](https://github.com/reyad-dev/mdx-reader) · [Live app](https://reyad-dev.github.io/mdx-reader/) |
+| **ReyadPortfolio** | A classic HTML/CSS personal portfolio with services, skills and resume sections. | [Repository](https://github.com/reyad-dev/personal-portfolio-html-css) |
+| **Reyad Interview** | An interactive Arabic Digital Marketing & WordPress interview guide with questions, model answers and topic filters. | [Repository](https://github.com/reyad-dev/digital-marketing-wordpress-interview-arabic) |
+| **Reyad Adhkar** | Arabic morning and evening supplications with repetition counters, progress tracking and themed modes. | [Repository](https://github.com/reyad-dev/adhkar-morning-evening-app) · [Live app](https://reyad-dev.github.io/adhkar-morning-evening-app/) |
+| **ReyadTemplate & ReyadResponsive** | HTML/CSS and jQuery learning projects with multi-section layouts and interactive effects. | [jQuery template](https://github.com/reyad-dev/responsive-html-css-jquery-template) · [PSD-to-HTML template](https://github.com/reyad-dev/free-psd-to-html-website-template) |
+| **ReyadMDX** | Offline Markdown viewer/editor with Arabic RTL and mixed Arabic-English bidi support. | [Repository](https://github.com/reyad-dev/mdx-reader) · [Live app](https://reyad-dev.github.io/mdx-reader/) |
 | **ReyadConvert** | Client-side image converter and optimizer for WebP, AVIF, PNG and JPG. | [Repository](https://github.com/reyad-dev/ReyadConvert) · [Live app](https://reyad-dev.github.io/ReyadConvert/) |
 
 ### Currently exploring
